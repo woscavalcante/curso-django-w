@@ -157,9 +157,9 @@
         },
         "post": {
             "hashes": [
-                "sha256:8fd57fb16f2c90ef4a76b04b8701c4db8ded170e53fac9514b5ea0272da5d36f"
+                "sha256:b7cafe650fb82e37504ceb5d10806f21b86c2ea9b09050f04b392f779f628634"
             ],
-            "version": "==2019.4.13"
+            "version": "==2020.7.1"
         },
         "psycopg2-binary": {
             "hashes": [
