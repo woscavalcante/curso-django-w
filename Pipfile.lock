@@ -255,9 +255,9 @@
         },
         "query-string": {
             "hashes": [
-                "sha256:bb24e4f58849ef6f8219b2446c2bed076d86c97720ae9c3ae918625807394ca8"
+                "sha256:1d4b7bade3b9ce6e4e4edcf40dca7c292296a53bb01a1cf47584d75d2ba38fa2"
             ],
-            "version": "==2019.4.13"
+            "version": "==2020.7.1"
         },
         "request": {
             "hashes": [
