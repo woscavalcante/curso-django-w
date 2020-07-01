@@ -261,10 +261,9 @@
         },
         "request": {
             "hashes": [
-                "sha256:6297b53c29a4928f7735034df2ab60aa1c7c044df989f605a81b7dc2d3713732"
+                "sha256:7c99b9239649ed9ea696f56418b49f2cc833b4eb7d15d86a225693b182511932"
             ],
-            "index": "pypi",
-            "version": "==2019.4.13"
+            "version": "==2020.7.1"
         },
         "s3transfer": {
             "hashes": [
