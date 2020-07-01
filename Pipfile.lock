@@ -199,9 +199,9 @@
         },
         "public": {
             "hashes": [
-                "sha256:e1436a8a99693a9849dfe40b9158f3837b7c309c163b2d3f5b8e9fce23876db1"
+                "sha256:cf9cdd660fbf3411407ed55841ec4c53e60147d6bfde22b71a63ed86aa624d86"
             ],
-            "version": "==2019.4.13"
+            "version": "==2020.7.1"
         },
         "py": {
             "hashes": [
