@@ -47,10 +47,10 @@
         },
         "botocore": {
             "hashes": [
-                "sha256:cca04cd4bdb092a727772c38808f97e15f07dc609f6fbd7d7ba09c7734058794",
-                "sha256:f9627c718d480225cbfeeeb7b4a694b9cea3cae67940a4b673770cfaca328a81"
+                "sha256:30c6566e68e680116a1949dd3a490a1f50ddaf9c195b1c85bada9d8af4163ad0",
+                "sha256:c6a60cffe095296b78ff03adae0fdf2875210a74531a0d1f68206091203573fe"
             ],
-            "version": "==1.16.17"
+            "version": "==1.23.30"
         },
         "collectfast": {
             "hashes": [
