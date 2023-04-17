@@ -349,11 +349,8 @@
             "version": "==3.0.4"
         },
         "codecov": {
-            "hashes": [
-                "sha256:2ebd639d8f621aabcce399e475b0302e436cb7e00e7724d1b2224bbf3f215a0c"
-            ],
-            "index": "pypi",
-            "version": "==2.1.3"
+            "hashes": [],
+            "version": "==2.1.13"
         },
         "colorama": {
             "hashes": [
