@@ -304,11 +304,8 @@
             "version": "==1.25.9"
         },
         "wcwidth": {
-            "hashes": [
-                "sha256:cafe2186b3c009a04067022ce1dcd79cb38d8d65ee4f4791b8888d6599d1bbe1",
-                "sha256:ee73862862a156bf77ff92b09034fc4825dd3af9cf81bc5b360668d425f3c5f1"
-            ],
-            "version": "==0.1.9"
+            "hashes": [],
+            "version": "==0.2.13"
         },
         "zipp": {
             "hashes": [
@@ -524,11 +521,8 @@
             "version": "==1.25.9"
         },
         "wcwidth": {
-            "hashes": [
-                "sha256:cafe2186b3c009a04067022ce1dcd79cb38d8d65ee4f4791b8888d6599d1bbe1",
-                "sha256:ee73862862a156bf77ff92b09034fc4825dd3af9cf81bc5b360668d425f3c5f1"
-            ],
-            "version": "==0.1.9"
+            "hashes": [],
+            "version": "==0.2.13"
         },
         "zipp": {
             "hashes": [
